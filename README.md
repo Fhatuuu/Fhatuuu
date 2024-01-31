@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Fhatuuu
+- 👀 I’m interested in computational statistics and quantitative algorithms 
+- 💞️ I’m looking to collaborate on anything related to statistics and data management
+- 😄 Pronouns: Her/She
